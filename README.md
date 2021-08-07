@@ -7,5 +7,4 @@ git clone git@github.com:stefanmaretic/fish_config.git ~/.config/fish
 ```
 
 Necessary dependencies are:
-(docker)[https://docs.docker.com/engine/install/ubuntu/]
-
+[docker](https://docs.docker.com/engine/install/ubuntu/)
